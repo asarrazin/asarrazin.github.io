@@ -1,7 +1,7 @@
-        @import url('https://fonts.google.com/specimen/Volkhov');
+        @import url('https://fonts.google.com/specimen/Montserrat');
         body {
             background-color: #22313F;
-            font-family: Volhov;
+            font-family: Montserrat;
         }
         
         .download-phone {
