@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<html lang="en">
+  {% include head.html %}
+  <body>
+      {% include navbar.html %}
+      <section id="home">
+        {% include home.html %}
+      </section>
+      <section id="about">
+        {% include about.html %}
+      </section>
+        {{ content }}
+      {% include footer.html %}
+  </body>
+</html>
