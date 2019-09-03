@@ -1,0 +1,30 @@
+<nav id="navbar" class="navbar navbar-light bg-light navbar-fixed-top">
+        <a class="download-phone" href="/AnaisSarrazinResume.pdf" data-toggle="tooltip" title="Download resume file in PDF" download>Download PDF version</a>
+        <ul class="nav nav-pills">
+            <li class="nav-item" id="introm">
+                <a class="nav-link" href="#AboutMe">About Me</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#education">Education</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#exp">Work Experience</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#extracurricular">Extracurricular Activities</A>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link" href="#projects"> Projects & Publication</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#more">More</a>
+            </li>
+            <li class="nav-item download-button">
+                <a class="nav-link download-button-text" href="/AnaisSarrazinResume.pdf" data-toggle="tooltip" download>Download Resume</a>
+            </li>
+        </ul>
+    </nav>
+    <div id="intro"></div>
+    <br>
+    <br>
+    <div class="container-fluid">
